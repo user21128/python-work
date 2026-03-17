@@ -1,52 +1,48 @@
 # 🐍 Python Work
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Python+Experiments+%F0%9F%90%8D;Data+%26+Automation+Lab;Learning+%E2%9A%A1+Building+%E2%9A%A1+Breaking" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00FF9C&center=true&vCenter=true&width=700&lines=Python+Lab+%F0%9F%90%8D;Automation+%2B+Experiments;Break+%E2%9A%A1+Build+%E2%9A%A1+Repeat;Welcome+to+the+Chaos" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/bassandroxk/python-work">
-    <img src="https://img.shields.io/github/stars/bassandroxk/python-work?style=for-the-badge&color=yellow">
-  </a>
-  <a href="https://github.com/bassandroxk/python-work/network">
-    <img src="https://img.shields.io/github/forks/bassandroxk/python-work?style=for-the-badge&color=blue">
-  </a>
+  <img src="https://img.shields.io/github/stars/bassandroxk/python-work?style=for-the-badge&color=yellow">
+  <img src="https://img.shields.io/github/forks/bassandroxk/python-work?style=for-the-badge&color=blue">
   <img src="https://komarev.com/ghpvc/?username=bassandroxk&style=for-the-badge&color=brightgreen">
 </p>
 
 ---
 
-## 🧠 About This Repo
+## 🧠 About
 
-> A living playground of Python experiments, labs, and chaotic curiosity.
+```diff
++ This is not just a repo.
++ This is a Python lab.
++ Ideas get tested, broken, and rebuilt here.
+```
 
-This repository is where I:
-
-* 🧪 Test ideas
-* 📊 Explore data
-* ⚡ Build quick scripts
-* 🧠 Learn by breaking things
+* 🧪 Experimental Python work
+* ⚡ Automation & scripting
+* 📊 Data exploration
+* 🧠 Learning through chaos
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Tech Arsenal
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode"/>
-
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux"/>
 </p>
 
 ---
 
-## 🧪 Core Skills
+## 🧪 Skills Matrix
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Automation-Scripting-6A5ACD?style=for-the-badge">
-<img src="https://img.shields.io/badge/Data%20Analysis-Learning-4CAF50?style=for-the-badge">
-<img src="https://img.shields.io/badge/Problem%20Solving-Active-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/Python-Advanced-00FF9C?style=for-the-badge&logo=python&logoColor=black">
+<img src="https://img.shields.io/badge/Scripting-Automation-111111?style=for-the-badge">
+<img src="https://img.shields.io/badge/Data%20Analysis-Developing-00C853?style=for-the-badge">
+<img src="https://img.shields.io/badge/Debugging-Relentless-FF1744?style=for-the-badge">
 
 </p>
 
@@ -56,42 +52,42 @@ This repository is where I:
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/Python-Native-yellow?style=for-the-badge&logo=python">
+<img src="https://img.shields.io/badge/English-Fluent-00B0FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/Python-Native-FFD600?style=for-the-badge&logo=python">
 
 </p>
 
 ---
 
-## 📂 Repository Structure
+## 📂 Repo Structure
 
 ```bash
 python-work/
 │
 ├── lab/                   # 🧪 Experiments & notebooks
-│   ├── experiment_1/
-│   ├── experiment_2/
+│   ├── exp_01/
+│   ├── exp_02/
 │   └── ...
 │
-├── .ipynb_checkpoints/    # 📄 Auto-saved notebooks
+├── .ipynb_checkpoints/    # 📄 Notebook autosaves
 ├── .gitattributes         # ⚙️ Git config
-└── README.md              # 📘 This file
+└── README.md              # 📘 You are here
 ```
 
 ---
 
-## 🚀 Featured Work
+## 🚀 Featured Zones
 
-* 🧪 Python lab experiments
-* 📊 Data exploration notebooks
-* ⚡ Automation scripts
-* 🔍 Algorithm testing
-
-> ⚠️ Expect messy brilliance. This is an active lab.
+| Zone       | Description                  |
+| ---------- | ---------------------------- |
+| 🧪 Lab     | Core experiments & notebooks |
+| ⚡ Scripts  | Quick automation tools       |
+| 📊 Data    | Analysis & learning          |
+| 🧠 Sandbox | Random ideas & tests         |
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Analytics
 
 <p align="center">
 
@@ -100,29 +96,39 @@ python-work/
 
 </p>
 
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bassandroxk&theme=react-dark&hide_border=true&area=true">
+
+</p>
+
 ---
 
-## 🧰 Tools I Use
+## 🐍 Contribution Snake
 
-* 🧠 Jupyter Notebook
-* ⚡ VS Code
-* 🔧 Git & GitHub
-* 🐍 Python ecosystem
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bassandroxk/bassandroxk/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
+## 🧰 Tools & Environment
+
+```yaml
+Editor: VS Code
+Notebook: Jupyter
+Language: Python 3.x
+Version Control: Git
+OS: Linux / Windows
+```
 
 ---
 
 ## 📥 Setup
 
-Clone the repo:
-
 ```bash
 git clone https://github.com/bassandroxk/python-work.git
 cd python-work
-```
-
-Run notebooks:
-
-```bash
 jupyter notebook
 ```
 
@@ -130,24 +136,36 @@ jupyter notebook
 
 ## 🧩 Roadmap
 
-* [ ] Structure experiments better
-* [ ] Add documentation per project
-* [ ] Create standalone mini-projects
-* [ ] Optimize and clean scripts
-* [ ] Add benchmarks & performance tests
+* [ ] Modular project structure
+* [ ] Clean documentation per experiment
+* [ ] Advanced automation scripts
+* [ ] Performance benchmarks
+* [ ] Mini-project releases
 
 ---
 
-## 💡 Philosophy
+## 💭 Dev Mindset
 
-> “Learn fast. Break things. Understand deeply.”
+```python
+while True:
+    learn()
+    build()
+    break_things()
+    improve()
+```
+
+---
+
+## ⚡ Fun Fact
+
+> Most of the code here started as “lemme just try this real quick” 😭
 
 ---
 
 ## ⭐ Support
 
-If you like this repo, drop a ⭐ — it helps more than you think.
+If you like the chaos, drop a ⭐.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,100:007CF0&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,100:000000&height=120&section=footer"/>
 </p>
