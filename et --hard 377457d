@@ -1,0 +1,22 @@
+[33m8d386c9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{0}: reset: moving to origin/main
+[33m377457d[m HEAD@{1}: commit (merge): Update README.md
+[33m4150e1b[m HEAD@{2}: commit: Update README.md
+[33m579fa31[m HEAD@{3}: reset: moving to 579fa31c7070c2591722834ca80cd44b20188ce8
+[33mcf8041c[m HEAD@{4}: commit: Update README.md
+[33m579fa31[m HEAD@{5}: commit: Delete experiment6 - Copy.ipynb
+[33m73a467e[m HEAD@{6}: commit: Create experiment6 - Copy.ipynb
+[33m89a9b05[m HEAD@{7}: commit: Update README.md
+[33m2eb16cc[m HEAD@{8}: commit (merge): Update experiment_!.ipynb
+[33m3e8440c[m HEAD@{9}: reset: moving to HEAD
+[33m3e8440c[m HEAD@{10}: commit: Update work.ipynb
+[33m13cf7f1[m HEAD@{11}: commit: update
+[33mfd1b09c[m HEAD@{12}: commit (merge): Merge branch 'main' of https://github.com/bassandroxk/python-work
+[33me356793[m HEAD@{13}: commit: Create experiment6.ipynb
+[33mbcc7bf3[m HEAD@{14}: commit: none
+[33m59a36ad[m HEAD@{15}: pull --ff --recurse-submodules --progress origin: Merge made by the 'ort' strategy.
+[33m53ac54e[m HEAD@{16}: commit: work
+[33m545bef1[m HEAD@{17}: commit: work
+[33m9f2d4af[m HEAD@{18}: commit: Delete .gitignore
+[33m8224e2b[m HEAD@{19}: commit: s
+[33mb9eeab3[m HEAD@{20}: commit: work
+[33ma9703fc[m HEAD@{21}: commit: rep
