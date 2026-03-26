@@ -1,0 +1,9 @@
+hello
+world
+worlds
+passive
+native
+active
+lambda
+pi
+saiki
