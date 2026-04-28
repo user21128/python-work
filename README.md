@@ -1,3 +1,11 @@
+### 🐍 this is a repo made my me and i just post my work related to the pyhton. 
+
+this repo mainly consists of the folders as challenge and experiments and other stuff- the challenge is basically the python coding challenge i took part in. also the experiments consist of the following experiments i did during my academics- hope you enjoy my repo.
+
+
+
+
+
 # 🐍 PYTHON WORK // SYSTEM BREACH
 
 <p align="center">
@@ -87,26 +95,6 @@
 * 📊 Data Analysis Core
 * 🧠 Adaptive Learning Loop
 
----
-
-## 📈 SURVEILLANCE
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bassandroxk&show_icons=true&theme=chartreuse-dark&hide_border=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bassandroxk&theme=chartreuse-dark&hide_border=true">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bassandroxk&theme=chartreuse-dark&hide_border=true&area=true">
-</p>
-
----
-
-## 🐍 ANOMALY TRACKER
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bassandroxk/bassandroxk/output/github-contribution-grid-snake.svg">
-</p>
 
 ---
 
@@ -170,3 +158,5 @@ If you've reached this point… you already know what to do.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:000000&height=120&section=footer"/>
 </p>
+
+## 
